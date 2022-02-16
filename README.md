@@ -159,6 +159,7 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 
 ## Editors
 - [Emacs](https://www.gnu.org/software/emacs/)
+- [Spacemacs](https://www.spacemacs.org/ - vim keys with the extensibility of emacs)
 - [Vim](https://www.vim.org/) - edit text at the speed of thought ;)
 - [Visual Studio Code](https://code.visualstudio.com/) - great for front end development, Visual Studio Code Editor by Microsoft
 - [Neovim](https://neovim.io/)
